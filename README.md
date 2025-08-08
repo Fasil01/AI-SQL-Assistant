@@ -34,7 +34,7 @@ ai-sql-assistant/
 ## 1. **Clone the repository**
 ```bash
 git clone https://github.com/Fasil01/AI-SQL-Assistant
-cd ai-sql-assistant
+cd AI-SQL-Assistant/
 ```
 ## 2.Install dependencies
 ```bash
