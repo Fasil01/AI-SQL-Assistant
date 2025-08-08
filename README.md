@@ -17,15 +17,17 @@ An interactive web app that allows you to ask questions in plain English, automa
 
 ---
 
-## 📂 Project Structure
-ai-sql-assistant/
-│── app.py # Main Streamlit app
-│── create_db.py # Script to create sample database
-│── sample.db # SQLite database with demo data
-│── background.jpg # Background image for UI
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+ ## 📂 Project Structure
 
+    ```
+    📦 AI-SQL-Assistant
+     ┣ 📜 app.py              — 🎯 Main Streamlit application
+     ┣ 📜 create_db.py        — 🛠 Script to create sample SQLite database
+     ┣ 🗄 sample.db           — 💾 SQLite database file with demo data
+     ┣ 🖼 background.jpg      — 🎨 Background image for the app UI
+     ┣ 📄 requirements.txt    — 📦 Python dependencies
+     ┗ 📄 README.md           — 📖 Project documentation
+    ```
 
 ---
 
