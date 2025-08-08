@@ -32,6 +32,7 @@ ai-sql-assistant/
 ## 🛠 Installation & Setup
 
 ## 1. **Clone the repository**
+bash
 git clone https://github.com/Fasil01/AI-SQL-Assistant
 cd ai-sql-assistant
 
