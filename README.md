@@ -31,20 +31,20 @@ ai-sql-assistant/
 
 ## 🛠 Installation & Setup
 
-1. **Clone the repository**
+## 1. **Clone the repository**
 git clone https://github.com/Fasil01/AI-SQL-Assistant
 cd ai-sql-assistant
 
-2.Install dependencies
+## 2.Install dependencies
 pip install -r requirements.txt
 
-3.Create the sample database
+## 3.Create the sample database
 python3 create_db.py
 
-4.Run the app
+## 4.Run the app
 streamlit run app.py
 
-🎯 Usage
+## 🎯 Usage
 .Start the app and enter your question in plain English.
 
 .The app generates a simple SQL query for demonstration.
@@ -53,12 +53,12 @@ streamlit run app.py
 
 .Click 📥 Download as CSV to save results.
 
-Example questions:
+## Example questions:
 
 List all users
 Show total users
 
-🧩 Future Improvements
+## 🧩 Future Improvements
 Integrate AI models (OpenAI GPT, LLaMA, etc.) for smarter SQL generation
 
 Add authentication for private database access
@@ -67,5 +67,5 @@ Support multiple database types (MySQL, PostgreSQL, etc.)
 
 Query history & saved queries
 
-💡 Author
+## 💡 Author
 Developed by Fasil – Available for freelance projects on Upwork.
