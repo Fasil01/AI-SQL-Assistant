@@ -16,6 +16,3 @@ An interactive web app that allows you to ask questions in plain English, automa
 - 🗄 **Custom database support** – Swap in your own `.db` file
 
 ---
-
-## 📂 Project Structure
-
