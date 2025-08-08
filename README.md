@@ -16,3 +16,56 @@ An interactive web app that allows you to ask questions in plain English, automa
 - 🗄 **Custom database support** – Swap in your own `.db` file
 
 ---
+
+## 📂 Project Structure
+ai-sql-assistant/
+│── app.py # Main Streamlit app
+│── create_db.py # Script to create sample database
+│── sample.db # SQLite database with demo data
+│── background.jpg # Background image for UI
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
+
+
+---
+
+## 🛠 Installation & Setup
+
+1. **Clone the repository**
+git clone https://github.com/Fasil01/AI-SQL-Assistant
+cd ai-sql-assistant
+
+2.Install dependencies
+pip install -r requirements.txt
+
+3.Create the sample database
+python3 create_db.py
+
+4.Run the app
+streamlit run app.py
+
+🎯 Usage
+.Start the app and enter your question in plain English.
+
+.The app generates a simple SQL query for demonstration.
+
+.The query runs on sample.db and displays results.
+
+.Click 📥 Download as CSV to save results.
+
+Example questions:
+
+List all users
+Show total users
+
+🧩 Future Improvements
+Integrate AI models (OpenAI GPT, LLaMA, etc.) for smarter SQL generation
+
+Add authentication for private database access
+
+Support multiple database types (MySQL, PostgreSQL, etc.)
+
+Query history & saved queries
+
+💡 Author
+Developed by Fasil – Available for freelance projects on Upwork.
