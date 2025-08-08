@@ -30,6 +30,7 @@ An interactive web app that allows you to ask questions in plain English, automa
     
 
 ---
+🚀 **Live Demo:** [Click here to try the AI SQL Assistant](https://ai-sql-assistant.onrender.com/)
 
 ## 🛠 Installation & Setup
 
