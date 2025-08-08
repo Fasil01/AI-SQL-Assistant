@@ -19,7 +19,7 @@ An interactive web app that allows you to ask questions in plain English, automa
 
  ## 📂 Project Structure
 
-    ```
+   
     📦 AI-SQL-Assistant
      ┣ 📜 app.py              — 🎯 Main Streamlit application
      ┣ 📜 create_db.py        — 🛠 Script to create sample SQLite database
@@ -27,7 +27,7 @@ An interactive web app that allows you to ask questions in plain English, automa
      ┣ 🖼 background.jpg      — 🎨 Background image for the app UI
      ┣ 📄 requirements.txt    — 📦 Python dependencies
      ┗ 📄 README.md           — 📖 Project documentation
-    ```
+    
 
 ---
 
